@@ -1,0 +1,12 @@
+
+.idea/Django-3-by-Example.iml
+*.pyc
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+blog/mysite/blog/migrations/0001_initial.py
+blog/mysite/blog/migrations/__init__.py
+blog/mysite/db.sqlite3
+Chapter01/mysite/db.sqlite3
